@@ -1,6 +1,8 @@
 # Insertion Sort Projesi
 Patika.dev platformundaki "Veri Yapıları ve Algoritmalar" dersi Proje-1
+
 ***Ödev Sayfası:*** https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/insertion-sort-proje
+
 ***Patika Profilim:*** https://app.patika.dev/ramones
 
 # Sorular ve Cavapları
